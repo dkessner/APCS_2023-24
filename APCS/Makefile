@@ -7,6 +7,11 @@ html:
 view:
 	open _build/html/index.html
 
+deploy:
+	rm -r ../docs
+	cp -r _build/html ../docs
+	touch ../docs/.nojekyll
+
 pdf:
 	jb build . --builder pdflatex
 
