@@ -1,5 +1,9 @@
 # Schedule 2022-23
 
+  
+
+__Note: this is last year's schedule__
+
 ## Semester 1
 
 15 weeks, 32 class meetings
