@@ -1,7 +1,7 @@
 # Class Info
 
 __AP Computer Science A (APCS)__  
-__2022-23__  
+__2023-24__  
 __Dr. Kessner__  
 __Marlborough School, Los Angeles__  
 

@@ -1,10 +1,5 @@
 # Software installation - Windows
 
-__2022-23 students: I haven't verified these instructions this year yet.
-If you do this setup, please report back to me (either that it worked,
-or what the problem is).  Thank you!__
-
-
 ## Install Chocolatey
 
 Chocolatey is a package manager for Windows, similar to Homebrew on Mac.
@@ -30,9 +25,9 @@ javac -version
 ```
 
 
-## Install Atom
+## Install Brackets
 
-[Atom](https://atom.io/) is a text editor.  If you already have a favorite text
+[Brackets](https://brackets.io/) is a text editor.  If you already have a favorite text
 editor, feel free to use that instead.
 
 ```
@@ -60,7 +55,7 @@ Please make an account and email me your account name.
 
 ## Install GitHub Desktop
 
-[GitHub Deskop](https://desktop.github.com/) is a desktop application
+[GitHub Desktop](https://desktop.github.com/) is a desktop application
 that facilitates interacting with repositories on GitHub.
 
 ```

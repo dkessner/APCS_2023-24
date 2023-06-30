@@ -1,10 +1,5 @@
 # Software installation - Mac
 
-__2022-23 students: I haven't verified these instructions this year yet.
-If you do this setup, please report back to me (either that it worked,
-or what the problem is).  Thank you!__
-
-
 ## Install Homebrew
 
 The first step is to install Homebrew, which is a software package manager that
@@ -22,7 +17,7 @@ Install the Java Development Kit (JDK) from the Eclipse Foundation
 ([info](https://formulae.brew.sh/cask/temurin)). 
 
 ```
-brew install --cask temurin
+brew install temurin
 ```
 
 Check that everything is installed properly.  These commands will
@@ -33,13 +28,13 @@ javac -version
 java -version
 ```
 
-## Install Atom
+## Install Brackets
 
-[Atom](https://atom.io/) is a text editor.  If you already have a favorite text
-editor, feel free to use that instead.
+[Brackets](https://brackets.io/) is a text editor.  If you already have a
+favorite text editor, feel free to use that instead.
 
 ```
-brew install --cask atom
+brew install brackets
 ```
 
 
@@ -57,6 +52,6 @@ Please make an account and email me your account name.
 that facilitates interacting with repositories on GitHub.
 
 ```
-brew install --cask github
+brew install github
 ```
 

@@ -20,7 +20,7 @@ in a folder named `processing_library` in the class shared folder.
 
 You can set the `CLASSPATH` environment variable from the command line:
 ```
-export CLASSPATH=".:$HOME/g/apcs_2020-21/processing_library/*"
+export CLASSPATH=".:/Applications/Processing.app/Contents/Java/core/library/*"
 ```
 
 Note that `$HOME` is another environment variable with the name of your home
@@ -38,6 +38,6 @@ Powershell.
 
 This has worked in Powershell:
 ```
-$env:CLASSPATH = ".;C:\Users\username\Google Drive\apcs_2020-21\processing_library\*"
+$env:CLASSPATH = ".;C:\Users\username\processing_library\*"
 ```
 

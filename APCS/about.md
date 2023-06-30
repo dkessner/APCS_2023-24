@@ -2,7 +2,7 @@
 
 ## APCS
 
-This is the website for AP Computer Science A (APCS) 2022-23, at Marlborough
+This is the website for AP Computer Science A (APCS) 2023-24, at Marlborough
 School in Los Angeles, taught by Dr. Darren Kessner, Program Head for Computer
 Science and Software Innovation.
 
@@ -18,7 +18,11 @@ innovation in education.
 
 ## Project 
 
-[APCS 2022-23 repo](https://github.com/dkessner/APCS)  
+[APCS 2023-24 repo](https://github.com/dkessner/APCS)  
+
+Last year's website:  
+[APCS 2022-23 website](https://dkessner.github.io/APCS_2022-23/)  
+[APCS 2022-23 repo](https://github.com/dkessner/APCS_2022-23)  
 
 The previous version of this website used the
 [Jekyll](https://jekyllrb.com/) static site generator:  
