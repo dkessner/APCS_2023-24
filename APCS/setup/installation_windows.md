@@ -31,7 +31,7 @@ javac -version
 editor, feel free to use that instead.
 
 ```
-choco install atom
+choco install brackets
 ```
 
 ## Paths
