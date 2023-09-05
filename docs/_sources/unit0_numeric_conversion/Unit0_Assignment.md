@@ -39,10 +39,12 @@ run.
 
 ## A note on copying code
 
-The code exercises are for you to practice using the ideas we discuss in class
-to solve problems you haven't seen before.  If you are stuck on a code
-exercise, you are absolutely welcome to get help from your classmates (or me,
-or the internet), and to look at their code.  
+The code exercises are for you to practice using the ideas we discuss
+in class to solve problems you haven't seen before.  If you are stuck
+on a code exercise, you are absolutely welcome to get help from your
+classmates (or me, or the internet), and to look at their code.  If
+your classmates are not available, an AI service like ChatGPT may offer
+some suggestions, or even working code.
 
 However, remember that copying and pasting code into your own project will not
 help you get any better at solving problems or writing code yourself.  
