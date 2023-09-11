@@ -9,3 +9,8 @@ Topics:
     - assignment: sequences, FizzBuzz, Fibonacci
 
 
+## Demo
+
+- <a href="../unit1_demo/Basics.java">Basics.java</a>
+- <a href="../unit1_demo/Sequences.java">Sequences.java</a>
+
