@@ -19,4 +19,7 @@ chapters:
     - file: unit0_numeric_conversion/index
       sections:
       - file: unit0_numeric_conversion/Unit0_Assignment
+    - file: unit1_java_basics/index
+      sections:
+      - file: unit1_java_basics/Unit1_Assignment
     - file: about
