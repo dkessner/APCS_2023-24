@@ -20,3 +20,8 @@ Topics:
 [http://codingbat.com/java/Warmup-1](http://codingbat.com/java/Warmup-1)
 
 
+## Demo
+
+- <a href="../unit2_demo/HelloFunctions.java">HelloFunctions.java</a>
+- <a href="../unit2_demo/MonkeyTrouble.java">MonkeyTrouble.java</a>
+
