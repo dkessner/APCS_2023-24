@@ -19,6 +19,10 @@ Topics:
 
 [http://codingbat.com/java/Warmup-1](http://codingbat.com/java/Warmup-1)
 
+![](0.jpg)
+![](1.jpg)
+![](2.jpg)
+
 
 ## Demo
 
