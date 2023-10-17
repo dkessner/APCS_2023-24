@@ -31,5 +31,7 @@ setup.
 ## Demo
 
 - <a href="../unit6_demo/HelloProcessing.java">HelloProcessing.java</a>
+- <a href="../unit6_demo/Ball.java">Ball.java</a>
+- <a href="../unit6_demo/Bounce.java">Bounce.java</a>
 
 
