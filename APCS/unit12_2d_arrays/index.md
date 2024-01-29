@@ -9,4 +9,5 @@
 ## Demo
 
 - <a href="../unit12_demo/Hello2DArray.java">Hello2DArray.java</a>
+- <a href="../unit12_demo/pixels.pde">pixels.pde</a>
 
