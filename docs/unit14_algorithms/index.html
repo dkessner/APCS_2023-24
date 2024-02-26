@@ -9,7 +9,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
-    <title>Unit 13 Assignment &#8212; APCS &lt;br/&gt; AP Computer Science &lt;br/&gt; 2023-24 &lt;br/&gt; Dr. Kessner</title>
+    <title>Unit 14 - Algorithms &#8212; APCS &lt;br/&gt; AP Computer Science &lt;br/&gt; 2023-24 &lt;br/&gt; Dr. Kessner</title>
   
   
   
@@ -62,12 +62,14 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'unit13_interacting_classes/Unit13_Assignment';</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'unit14_algorithms/index';</script>
     <link rel="author" title="About these documents" href="../about.html" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Unit 14 - Algorithms" href="../unit14_algorithms/index.html" />
-    <link rel="prev" title="Unit 13 - Interacting Classes" href="index.html" />
+    <link rel="next" title="Unit 14 Assignment (optional)" href="Unit14_Assignment.html" />
+    <link rel="prev" title="Unit 13 Assignment" href="../unit13_interacting_classes/Unit13_Assignment.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -225,12 +227,12 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="../unit12_2d_arrays/Unit12_Assignment.html">Unit 12 Assignment</a></li>
 </ul>
 </li>
-<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">Unit 13 - Interacting Classes</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-16"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
-<li class="toctree-l2 current active"><a class="current reference internal" href="#">Unit 13 Assignment</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../unit13_interacting_classes/index.html">Unit 13 - Interacting Classes</a><input class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-16"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../unit13_interacting_classes/Unit13_Assignment.html">Unit 13 Assignment</a></li>
 </ul>
 </li>
-<li class="toctree-l1 has-children"><a class="reference internal" href="../unit14_algorithms/index.html">Unit 14 - Algorithms</a><input class="toctree-checkbox" id="toctree-checkbox-17" name="toctree-checkbox-17" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-17"><i class="fa-solid fa-chevron-down"></i></label><ul>
-<li class="toctree-l2"><a class="reference internal" href="../unit14_algorithms/Unit14_Assignment.html">Unit 14 Assignment (optional)</a></li>
+<li class="toctree-l1 current active has-children"><a class="current reference internal" href="#">Unit 14 - Algorithms</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-17" name="toctree-checkbox-17" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-17"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="Unit14_Assignment.html">Unit 14 Assignment (optional)</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../about.html">About</a></li>
@@ -305,7 +307,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="https://github.com/dkessner/APCS/issues/new?title=Issue%20on%20page%20%2Funit13_interacting_classes/Unit13_Assignment.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/dkessner/APCS/issues/new?title=Issue%20on%20page%20%2Funit14_algorithms/index.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -335,7 +337,7 @@ const thebe_selector_output = ".output, .cell_output"
       
       
       
-      <li><a href="../_sources/unit13_interacting_classes/Unit13_Assignment.md" target="_blank"
+      <li><a href="../_sources/unit14_algorithms/index.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -417,7 +419,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Unit 13 Assignment</h1>
+    <h1>Unit 14 - Algorithms</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -427,11 +429,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#code-exercises">Code exercises</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#shapecollection">ShapeCollection</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#academicclass">AcademicClass</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topics">Topics:</a></li>
 </ul>
             </nav>
         </div>
@@ -443,49 +441,32 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="unit-13-assignment">
-<h1>Unit 13 Assignment<a class="headerlink" href="#unit-13-assignment" title="Permalink to this heading">#</a></h1>
-<section id="code-exercises">
-<h2>Code exercises<a class="headerlink" href="#code-exercises" title="Permalink to this heading">#</a></h2>
-<p>Make sure to write test code (not necessarily full unit tests) to make sure
-your functions are behaving properly.</p>
-<section id="shapecollection">
-<h3>ShapeCollection<a class="headerlink" href="#shapecollection" title="Permalink to this heading">#</a></h3>
-<p>a. Write a Shape class, with private variables for name and number of sides,
-constructor, and accessor functions.</p>
-<p>b. Write a ShapeCollection class, which has a private ArrayList of Shape objects.
-Include the following:</p>
-<ul>
-<li><p>a function to add a shape to the collection</p></li>
-<li><p>a function that takes a shape name as input, looks up the shape object by
-name, and returns the number of sides of the named shape:</p>
-<p><code class="docutils literal notranslate">&#160;&#160;&#160; <span class="pre">int</span> <span class="pre">numberOfSides(String</span> <span class="pre">shapeName)</span></code></p>
-</li>
-<li><p>a function that returns the average number of sides of the shapes in the collection</p></li>
-<li><p>a function that returns an ArrayList of the shapes with an even number of sides</p></li>
-</ul>
-</section>
-<section id="academicclass">
-<h3>AcademicClass<a class="headerlink" href="#academicclass" title="Permalink to this heading">#</a></h3>
-<p>a. Write a Student class, with private variables for name and favorite number
-(integer), including constructor and accessor functions.</p>
-<p>b) Write a Teacher class, with private variables for name and subject,
-including constructor and accessor functions.</p>
-<p>c) Write a class <code class="docutils literal notranslate"><span class="pre">AcademicClass</span></code>, representing a course you take in school.
-The AcademicClass should have a private variable for the teacher, and a private
-ArrayList of students.  Either include the teacher in the constructor or write
-a setTeacher() function.  Also include the following:</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="unit-14-algorithms">
+<h1>Unit 14 - Algorithms<a class="headerlink" href="#unit-14-algorithms" title="Permalink to this heading">#</a></h1>
+<section id="topics">
+<h2>Topics:<a class="headerlink" href="#topics" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
-<li><p>a function to add a student to the list</p></li>
-<li><p>a function that prints info about the class (i.e print the teacher and
-all student names.</p></li>
-<li><p>a function that takes a single integer <code class="docutils literal notranslate"><span class="pre">n</span></code> as input and returns an
-ArrayList of the names of the students whose favorite number is <code class="docutils literal notranslate"><span class="pre">n</span></code></p></li>
-<li><p>a function that returns an ArrayList of the names of the students whose
-favorite number is odd</p></li>
+<li><p>algorithm analysis</p></li>
+<li><p>searching</p>
+<ul>
+<li><p>linear search</p></li>
+<li><p>binary search</p></li>
+<li><p><span class="math notranslate nohighlight">\(o(n)\)</span> vs. <span class="math notranslate nohighlight">\(o(\log n)\)</span></p></li>
+</ul>
+</li>
+<li><p>sorting</p>
+<ul>
+<li><p>insertion sort</p></li>
+<li><p>selection sort</p></li>
+<li><p>bubble sort</p></li>
+<li><p>merge sort</p></li>
+<li><p><span class="math notranslate nohighlight">\(o(n^2)\)</span> vs. <span class="math notranslate nohighlight">\(o(n \log n)\)</span></p></li>
+</ul>
+</li>
 </ul>
 </section>
-</section>
+<div class="toctree-wrapper compound">
+</div>
 </section>
 
     <script type="text/x-thebe-config">
@@ -501,7 +482,7 @@ favorite number is odd</p></li>
         },
         kernelOptions: {
             name: "python3",
-            path: "./unit13_interacting_classes"
+            path: "./unit14_algorithms"
         },
         predefinedOutput: true
     }
@@ -520,20 +501,20 @@ favorite number is odd</p></li>
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="index.html"
+       href="../unit13_interacting_classes/Unit13_Assignment.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Unit 13 - Interacting Classes</p>
+        <p class="prev-next-title">Unit 13 Assignment</p>
       </div>
     </a>
     <a class="right-next"
-       href="../unit14_algorithms/index.html"
+       href="Unit14_Assignment.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Unit 14 - Algorithms</p>
+        <p class="prev-next-title">Unit 14 Assignment (optional)</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -555,11 +536,7 @@ favorite number is odd</p></li>
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#code-exercises">Code exercises</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#shapecollection">ShapeCollection</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#academicclass">AcademicClass</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#topics">Topics:</a></li>
 </ul>
   </nav></div>
 
