@@ -1,6 +1,6 @@
 # Unit 14 - Algorithms
 
-## Topics:
+## Topics
 
 - algorithm analysis
 
@@ -15,3 +15,11 @@
     - bubble sort
     - merge sort
     - $o(n^2)$ vs. $o(n \log n)$
+
+
+## Notes from the lesson
+
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+
