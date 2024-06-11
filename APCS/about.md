@@ -18,7 +18,7 @@ innovation in education.
 
 ## Project 
 
-[APCS 2023-24 repo](https://github.com/dkessner/APCS)  
+[APCS 2023-24 repo](https://github.com/dkessner/APCS_2023-24)  
 
 Last year's website:  
 [APCS 2022-23 website](https://dkessner.github.io/APCS_2022-23/)  
